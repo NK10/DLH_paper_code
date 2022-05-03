@@ -1,7 +1,10 @@
 # DLH_paper_code
+
 **Citation:** Batuhan Bardak, Mehmet Tan. mproving Clinical Outcome Predictions Using Convolution over Medical Entities with Multimodal Learning. 
 https://doi.org/10.48550/arXiv.2011.12349
+
 **Original Paper Repo:** - https://github.com/tanlab/ConvolutionMedicalNer
+
 **Dependencies** - https://github.com/NK10/DLH_paper_code/blob/main/Package_list.txt
 
 **Fix the below points:**
