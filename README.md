@@ -28,9 +28,9 @@ https://doi.org/10.48550/arXiv.2011.12349
  - Download pre trained embeddings into embeddings folder via link in given References section.
  - Run 05-Represent-Entities-With-Different-Embeddings.ipynb to convert medical entities into word representations.
  - Run 06-Create-Timeseries-Data.ipynb to prepare the time series data to fed through GRU / LSTM. 
- - Run 07-Timeseries-Baseline.ipynb to run a timeseries baseline model to predict 4 different clinical tasks.
- - Run 08-Multimodal-Baseline.ipynb to run multimodal baseline to predict 4 different clinical tasks. 
- - Run 09-Proposed-Model.ipynb to run a proposed model to predict 4 different clinical tasks.
+ - Run 07-Timeseries-Baseline.ipynb to run a timeseries baseline model to predict 2 different clinical tasks.
+ - Run 08-Multimodal-Baseline.ipynb to run multimodal baseline to predict 2 different clinical tasks. 
+ - Run 09-Proposed-Model.ipynb to run a proposed model to predict 2 different clinical tasks.
 
 
 # References from original paper:
